@@ -1,2 +1,1 @@
-hello.
-i did it
+My first readme , udpated file
